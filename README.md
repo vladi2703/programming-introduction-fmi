@@ -1,1 +1,1 @@
-# programming-introduction-fmi
+# Увод в програмирането практикум
