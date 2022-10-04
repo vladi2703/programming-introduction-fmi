@@ -6,3 +6,8 @@
 ![](images/installer.png)
 
 Ако вече сте инсталирали Visual Studio и нямате поддръжка на C++, отидете в менюто на VS -> Tools -> Get Tools and Features
+
+## Създаване на проект
+Можете да създате проект при стартиране на VS или от File->New->Project. Изберете Console App
+
+![](images/template.png)
