@@ -19,7 +19,7 @@
 
 За да отворите съществуващ проект, намерете папката с проекта във file explorer или във VS->File->Open->Project/Solution. В същата директория се намира sln файл, чрез който се отваря проекта. Друг начин е да влезете в папката с проекта и да отворите vcxproj файла.
 
-##Инсталация на C++ за Visual Studio Code под Windows
+## Инсталация на C++ за Visual Studio Code под Windows
 https://code.visualstudio.com/docs/languages/cpp
 
 
