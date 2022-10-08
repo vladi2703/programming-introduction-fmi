@@ -19,10 +19,6 @@
 
 За да отворите съществуващ проект, намерете папката с проекта във file explorer или във VS->File->Open->Project/Solution. В същата директория се намира sln файл, чрез който се отваря проекта. Друг начин е да влезете в папката с проекта и да отворите vcxproj файла.
 
-## Инсталация на C++ за Visual Studio Code под Windows
-https://code.visualstudio.com/docs/languages/cpp
-
-
 ## Първа програма
 
 След като създадете проект чрез шаблона Console App, получавате cpp файл с автоматично генериран код. За да стартирате програмата натиснете Debug->Start Without Debugging или комбинацията Ctrl+F5. Кодът се компилира и се създава изпълним файл, който се стартира автоматично в средата VS. За да откриете изпълнимия файл натиснете с десен клин папката Solution в Solution Explorer -> Open Folder in File Explorer. Той се намира в папка x64 -> Debug
@@ -31,7 +27,10 @@ https://code.visualstudio.com/docs/languages/cpp
 
 ## Добавяне на още проекти към Solution
 
-Понякога е удобно да работите върху няколко проекта едновременно. За тази цел натиснете с десен клик папката Solution в Solution Explorer -> Add -> New Project. За да компилирате и стартирате някой от проектите изберете папката на проекта в Solution Explorer -> десен клик -> Debug -> Start Without Debugging.
+Понякога е удобно да работите върху няколко проекта едновременно. За тази цел натиснете с десен клик папката Solution в Solution Explorer -> Add -> New Project. За да компилирате и стартирате някой от проектите изберете папката на проекта в Solution Explorer -> десен клик -> Debug -> Start Without Debugging. Ако искате да имате възможност да стартирате някой от проектите с ctrl+F5, изберете папката на проекта в Solution Explorer -> десен клик -> Set as Startup Project
+
+## Инсталация на C++ за Visual Studio Code под Windows
+https://code.visualstudio.com/docs/languages/cpp
 
 ## Задачи
 
