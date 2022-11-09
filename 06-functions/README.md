@@ -122,3 +122,19 @@ printPrimes(3,10);
 
 toNum(146225) = 122456
 toNum(100000) = 1
+
+## Задача 14 - Комбинации
+
+Дадени са **n** различни топчета. Напишете функция <code>int combinations(int n,int k)</code>, която изчислява по колко начина можем да изберем **k** от тях.  
+<details><summary>Подсказка</summary>
+Търсеният брой е $C_{k}^{n} = {\binom {n}{k}}={\frac {n(n-1)\dotsb (n-k+1)}{k(k-1)\dotsb 1}}={\frac {n!}{k!(n-k)!}}$
+</details>
+
+**Пример:**  
+```text
+combinations(3,2)
+```
+Изход:
+```
+3
+```
