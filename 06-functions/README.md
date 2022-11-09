@@ -132,7 +132,7 @@ toNum(100000) = 1
 
 **Пример:**  
 ```text
-combinations(3,2)
+std::cout << combinations(3,2) << std::endl;
 ```
 Изход:
 ```
