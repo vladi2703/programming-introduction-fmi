@@ -1,6 +1,7 @@
 # Увод в програмирането практикум 2022/2023
 
 :love_letter: Връзки:<br>
+---
 Захари - zemarinov@uni-sofia.bg <br>
 Владимир - vladisto100@gmail.com
 
@@ -15,4 +16,4 @@
 | 5.  | [Масиви](https://github.com/vladi2703/programming-introduction-fmi/tree/main/05-arrays)                                                                                       |
 | 6.  | [Функции](https://github.com/vladi2703/programming-introduction-fmi/tree/main/06-functions)                                                                                   |
 | 7.  | [Try-Catch оператор. Подаване по референция.](https://github.com/vladi2703/programming-introduction-fmi/tree/main/07-try-catch%2C%20functions%2C%20arrays%20and%20references) |
-| 8.  | [Двумерни масиви.]()                                                                                                                                                          |
+| 8.  | [Двумерни масиви.](https://github.com/vladi2703/programming-introduction-fmi/tree/main/08-multi-dimensional-arrays)                                                           |
