@@ -1,31 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@Zahari-M
-vladi2703 /
-up-private
-Private
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-
-    Insights
-
-up-private/09-Dynamic memory and c-strings/README.md
-@Zahari-M
-Zahari-M quick fix
-Latest commit 360120a Nov 30, 2022
-History
-1 contributor
-104 lines (94 sloc) 5.61 KB
 # Динамична памет
 За задачите използвайте динамично заделени масиви. Гарантира се, че размерите на масивите са цели числа, но те трябва да се валидират по друга причина.
 
@@ -130,20 +102,3 @@ std::cout<<str1<< std::endl;
 ```
 abcdef
 ```
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-up-private/README.md at main · vladi2703/up-private
