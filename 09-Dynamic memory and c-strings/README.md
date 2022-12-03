@@ -98,7 +98,7 @@ grade
 **Пример:**
 ```
 char str1[100] = "abc";
-myStrcat_s(str1,20,"def");
+mystrcat_s(str1,20,"def");
 std::cout<<str1<< std::endl;
 ```
 Изход:
