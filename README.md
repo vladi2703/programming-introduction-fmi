@@ -19,4 +19,4 @@
 | 8.  | [Двумерни масиви](https://github.com/vladi2703/programming-introduction-fmi/tree/main/08-multi-dimensional-arrays)                                                           |
 | 9.  | [Динамична памет и c-низове](https://github.com/vladi2703/programming-introduction-fmi/tree/main/09-Dynamic%20memory%20and%20c-strings)                                      |
 | 10. | [С-низове](https://github.com/vladi2703/programming-introduction-fmi/tree/main/10-C-strings)                                                                                 |
-| 11. | [Подготовка за контролна работа №2](https://github.com/vladi2703/programming-introduction-fmi/tree/main/11-exam-preparation)                                                 |
+| 11. | [Подготовка за контролна работа №2](https://github.com/vladi2703/programming-introduction-fmi/tree/main/11-exam-2-preparation)                                               |
