@@ -4,18 +4,19 @@
     малко по-бавно, но по-четливо решение на задачата
 */
 
+// връща true, ако target се съдържа в arr[l..r], иначе false
 bool findRecursive(int arr[], int target, int l, int r) {
     if (l == r)
         return arr[l] == target;
 
-    int mid = (l + r) / 2; // l <= mid < r
-    
+    int mid = (l + r) / 2; // l <= mid < r    
     if (target <= arr[mid])
         return findRecursive(arr, target, l, mid);
     else
         return findRecursive(arr, target, mid + 1, r);
 }
 
+// връща true, ако target се съдържа в arr, иначе false
 bool find(int arr[], int size, int target)
 {
     return findRecursive(arr, target, 0, size - 1);
@@ -26,5 +27,4 @@ int main()
     int arr[] = { 2,4,6,10,15,19,33,123 };
     int search = 19;
     std::cout << find(arr, sizeof(arr) / sizeof(int) - 1, search);
-
 }
