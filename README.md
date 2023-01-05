@@ -21,3 +21,4 @@
 | 10. | [С-низове](https://github.com/vladi2703/programming-introduction-fmi/tree/main/10-C-strings)                                                                                |
 | 11. | [Подготовка за контролна работа №2](https://github.com/vladi2703/programming-introduction-fmi/tree/main/11-exam-2-preparation)                                              |
 | 12. | [Рекурсия](https://github.com/vladi2703/programming-introduction-fmi/tree/main/12-recursion)                                                                                |
+| 13. | [Рекурсия и търсене с връщане назад](https://github.com/vladi2703/programming-introduction-fmi/tree/main/13-recursion-and-backtracking)                                                                                |
