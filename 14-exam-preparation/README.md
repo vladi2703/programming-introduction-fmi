@@ -31,7 +31,8 @@ z z z k b b
 ```
 
 ## Задача 2 - Циклично отместване
-![image](https://user-images.githubusercontent.com/107109124/211842781-dce05c1a-f776-43b6-990e-f3b1579cd485.png)  
+![image](https://user-images.githubusercontent.com/107109124/211918679-447c8d69-2e9e-4263-80ac-d8b2a051f72c.png)
+
 Ограничения за подточка б): n<20  
 Пример:  
 ```cpp
